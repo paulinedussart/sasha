@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "on",
+  "html.format.wrapAttributes": "aligned-multiple",
+  "debug.console.wordWrap": true,
+  "notebook.output.wordWrap": false,
+  "html.format.wrapLineLength": 80
+}
